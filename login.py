@@ -1,8 +1,4 @@
 def index():
 	return 'hello world'
+a = 1
 
-b = 6
-
-a = 5
-
-c = 7
